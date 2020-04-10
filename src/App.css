@@ -1,0 +1,10 @@
+/* .App {
+  display: grid;
+  grid-template-columns: 3% auto;
+  grid-template-rows: 3% 87% auto;
+  grid-template-areas:
+    "sidebar header"
+    "sidebar main"
+    "sidebar footer";
+  background: #f0f0f0;
+} */
